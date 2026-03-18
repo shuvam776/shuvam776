@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shuvam Satapathi  
+# Hey there 👋, I'm Shuvam Satapathi  
 
 🚀 Full Stack Developer focused on building scalable web applications  
 ⚡ I build clean UIs and backend systems that actually handle real use-cases  
